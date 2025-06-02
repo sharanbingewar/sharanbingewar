@@ -1,6 +1,3 @@
-Here's a revised version of your `README.md` with simpler language and more unique phrasing for your coursework and experiences:
-
----
 
 # 🌟 About Me
 
