@@ -3,7 +3,7 @@
 
 Hi! I'm **Sai Sharan Bingewar**, a software engineer who enjoys using technology to solve everyday problems. My curiosity about how systems work together led me to dive into **networking**, **database management**, and **data security**. These areas have fascinated me, and they continue to guide my work.
 
-Currently, I’m pursuing a **Master’s in Computer Science** at **Concordia University**. This program helps me build on my previous experiences and allows me to explore new areas of tech, pushing me to think about problems in different ways and find better solutions.
+I recently graduated with **Master’s in Computer Science** at **Concordia University**. This program helps me build on my previous experiences and allowed me to explore new areas of tech, pushing me to think about problems in different ways and find better solutions.
 
 ## 🚀 My Mission
 
