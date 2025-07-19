@@ -26,7 +26,7 @@ When I’m not coding, I enjoy getting outdoors and hiking. I recently reached t
 
 ### 📚 Lifelong Learning
 
-During my time at **Concordia University**, I’ve had the chance to study some really interesting topics, like **mobile computer architecture** and **language theory**. These courses have helped me think more deeply about how computers work and how software is built. My experience as a **Regression Test Engineer** at **TCS** also taught me the importance of testing and making sure software works properly, which has been a key part of my approach to development.
+During my time at **Concordia University**, I’ve had the chance to study some really interesting topics, like **mobile computer architecture** and **language theory**. These courses have helped me think more deeply about how computers work and how software is built. My experience as a **Software Test Engineer** at **TCS** also taught me the importance of testing and making sure software works properly, which has been a key part of my approach to development.
 
 > *"The only way to do great work is to love what you do."* – Steve Jobs
 
